@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Frontend Developer Intern at Bridgeon<br>💻 Skilled in HTML, CSS, JavaScript, React & Redux<br>🌱 Building real-world projects and learning every day
+🚀 Full Stack Developer at Bridgeon<br>💻 Skilled in Python, Django, Postgresql, JavaScript, React & Redux<br>🌱 Building real-world projects and learning every day
 
 
 ## 🌐 Socials:
