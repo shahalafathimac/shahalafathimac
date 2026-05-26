@@ -167,12 +167,10 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
+<!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahalafathimac&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahalafathimac&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -188,14 +186,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahalafathimac&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahalafathimac&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
