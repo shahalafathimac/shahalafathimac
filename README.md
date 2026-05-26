@@ -51,6 +51,37 @@
 
 ---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
+
+
+  <table align="center">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48"/><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br>RestAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
+    <!-- <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48"/><br>Kubernetes</td> -->
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48"/><br>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+  </tr>
+  </table>
+
+---
+
 ## 💻 Tech Stack
 
 **Frontend:** React.js, Redux Toolkit, React Router, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
