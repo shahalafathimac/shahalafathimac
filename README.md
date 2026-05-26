@@ -127,7 +127,7 @@
 
 ✔ Role-Based Access Control
 
-🔗 Repository: Add Link Here
+🔗 Repository: https://github.com/shahalafathimac/student_Management.git
 
 ---
 
@@ -147,7 +147,7 @@
 
 ✔ State Management using Redux Toolkit
 
-🔗 Repository: Add Link Here
+🔗 Repository:https://github.com/shahalafathimac/E-commerce.git
 
 ---
 
@@ -163,7 +163,7 @@
 
 ✔ Project Showcase
 
-🔗 Repository: Add Link Here
+🔗 Repository: https://github.com/shahalafathimac/Portfolio.git
 
 ---
 
