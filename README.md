@@ -1,10 +1,191 @@
-# 💫 About Me:
-🚀 Full Stack Developer at Bridgeon<br>💻 Skilled in Python, Django, Postgresql, JavaScript, React & Redux<br>🌱 Building real-world projects and learning every day
+<h1 align="center">Hi 👋, I'm Fathima Shahala C</h1>
+<h3 align="center">Full-Stack Developer | React.js | Django | REST APIs</h3>
 
+<p align="center">
+  <a href="https://github.com/shahalafathimac">
+    <img src="https://komarev.com/ghpvc/?username=shahalafathimac&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathima-shahala-c) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahalafathima213@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+💻 Passionate Full-Stack Developer focused on building scalable web applications.
+
+🌱 Currently improving my expertise in:
+- Django REST Framework
+- React.js & Redux Toolkit
+- PostgreSQL
+- Authentication & Authorization
+- API Development
+- System Design
+
+🎯 Interested in:
+- Full-Stack Development
+- Backend Engineering
+- Web Application Architecture
+- Modern Frontend Technologies
+
+📍 Kozhikode, Kerala, India
+
+📧 Email: **shahalafathima213@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/fathima-shahala-c" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:shahalafathima213@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://github.com/shahalafathimac">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+**Frontend:** React.js, Redux Toolkit, React Router, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
+**Backend:** Python, Django, Django REST Framework (DRF), REST APIs, Django ORM
+
+**Database:** PostgreSQL, SQLite, SQL
+
+**DevOps:** Docker, Docker Compose, AWS (Learning), GitHub Actions (Learning), Linux
+
+**Tools:** Git, GitHub, VS Code, Postman, JSON Server
+
+**Concepts:** Authentication, Authorization, CRUD Operations, API Integration, State Management, Responsive Design
+
+---
+
+## 💼 Professional Experience
+
+### Full-Stack Developer
+**Bridgeon Solutions LLP** *(2025 – Present)*
+
+- Developed responsive web applications using React.js
+- Integrated RESTful APIs for seamless frontend-backend communication
+- Implemented authentication and authorization workflows
+- Improved performance through optimized state management
+- Worked with modern development workflows and Git version control
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Management System
+
+**Tech Stack:** Django, Django REST Framework, PostgreSQL
+
+✔ CRUD Operations
+
+✔ REST APIs
+
+✔ Authentication & Authorization
+
+✔ Django ORM
+
+✔ Role-Based Access Control
+
+🔗 Repository: Add Link Here
+
+---
+
+### 🛒 Ornaments E-Commerce Application
+
+**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS
+
+✔ Product Listing
+
+✔ Product Filtering
+
+✔ Shopping Cart
+
+✔ Checkout Flow
+
+✔ Admin Dashboard
+
+✔ State Management using Redux Toolkit
+
+🔗 Repository: Add Link Here
+
+---
+
+### 🌐 Personal Portfolio Website
+
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+✔ Responsive Design
+
+✔ Interactive UI
+
+✔ Flexbox & CSS Grid
+
+✔ Project Showcase
+
+🔗 Repository: Add Link Here
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahalafathimac&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahalafathimac&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahalafathimac&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahalafathimac&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shahalafathimac&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📌 Current Focus
+
+```text
+✔ Advanced Django REST Framework
+✔ PostgreSQL Optimization
+✔ React Performance Optimization
+✔ Secure Authentication Systems
+✔ Full-Stack Production Applications
+```
+
+---
+
+## 💡 Developer Quote
+
+> "Building scalable applications is not just about writing code;
+> it's about solving real-world problems with clean architecture."
+
+---
+
+⭐ If you like my work, consider following me and checking out my repositories!
